@@ -3,147 +3,42 @@
 
 
 "@babel/parser@^7.24.4":
-  version "7.24.6"
-  resolved "http://npm.idcvdian.com/@babel/parser/download/@babel/parser-7.24.6.tgz#5e030f440c3c6c78d195528c3b688b101a365328"
-  integrity sha1-XgMPRAw8bHjRlVKMO2iLEBo2Uyg=
-
-"@esbuild/android-arm64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/android-arm64/download/@esbuild/android-arm64-0.18.20.tgz#984b4f9c8d0377443cc2dfcef266d02244593622"
-  integrity sha1-mEtPnI0Dd0Q8wt/O8mbQIkRZNiI=
-
-"@esbuild/android-arm@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/android-arm/download/@esbuild/android-arm-0.18.20.tgz#fedb265bc3a589c84cc11f810804f234947c3682"
-  integrity sha1-/tsmW8OlichMwR+BCATyNJR8NoI=
-
-"@esbuild/android-x64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/android-x64/download/@esbuild/android-x64-0.18.20.tgz#35cf419c4cfc8babe8893d296cd990e9e9f756f2"
-  integrity sha1-Nc9BnEz8i6voiT0pbNmQ6en3VvI=
+  version "7.24.7"
+  resolved "http://npm.idcvdian.com/@babel/parser/download/@babel/parser-7.24.7.tgz"
+  integrity sha1-mlIm+S8MXI6tVQt1D1YI52bIzoU=
 
 "@esbuild/darwin-arm64@0.18.20":
   version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/darwin-arm64/download/@esbuild/darwin-arm64-0.18.20.tgz#08172cbeccf95fbc383399a7f39cfbddaeb0d7c1"
+  resolved "http://npm.idcvdian.com/@esbuild/darwin-arm64/download/@esbuild/darwin-arm64-0.18.20.tgz"
   integrity sha1-CBcsvsz5X7w4M5mn85z73a6w18E=
-
-"@esbuild/darwin-x64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/darwin-x64/download/@esbuild/darwin-x64-0.18.20.tgz#d70d5790d8bf475556b67d0f8b7c5bdff053d85d"
-  integrity sha1-1w1XkNi/R1VWtn0Pi3xb3/BT2F0=
-
-"@esbuild/freebsd-arm64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/freebsd-arm64/download/@esbuild/freebsd-arm64-0.18.20.tgz#98755cd12707f93f210e2494d6a4b51b96977f54"
-  integrity sha1-mHVc0ScH+T8hDiSU1qS1G5aXf1Q=
-
-"@esbuild/freebsd-x64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/freebsd-x64/download/@esbuild/freebsd-x64-0.18.20.tgz#c1eb2bff03915f87c29cece4c1a7fa1f423b066e"
-  integrity sha1-wesr/wORX4fCnOzkwaf6H0I7Bm4=
-
-"@esbuild/linux-arm64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/linux-arm64/download/@esbuild/linux-arm64-0.18.20.tgz#bad4238bd8f4fc25b5a021280c770ab5fc3a02a0"
-  integrity sha1-utQji9j0/CW1oCEoDHcKtfw6AqA=
-
-"@esbuild/linux-arm@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/linux-arm/download/@esbuild/linux-arm-0.18.20.tgz#3e617c61f33508a27150ee417543c8ab5acc73b0"
-  integrity sha1-PmF8YfM1CKJxUO5BdUPIq1rMc7A=
-
-"@esbuild/linux-ia32@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/linux-ia32/download/@esbuild/linux-ia32-0.18.20.tgz#699391cccba9aee6019b7f9892eb99219f1570a7"
-  integrity sha1-aZORzMupruYBm3+YkuuZIZ8VcKc=
-
-"@esbuild/linux-loong64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/linux-loong64/download/@esbuild/linux-loong64-0.18.20.tgz#e6fccb7aac178dd2ffb9860465ac89d7f23b977d"
-  integrity sha1-5vzLeqwXjdL/uYYEZayJ1/I7l30=
-
-"@esbuild/linux-mips64el@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/linux-mips64el/download/@esbuild/linux-mips64el-0.18.20.tgz#eeff3a937de9c2310de30622a957ad1bd9183231"
-  integrity sha1-7v86k33pwjEN4wYiqVetG9kYMjE=
-
-"@esbuild/linux-ppc64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/linux-ppc64/download/@esbuild/linux-ppc64-0.18.20.tgz#2f7156bde20b01527993e6881435ad79ba9599fb"
-  integrity sha1-L3FWveILAVJ5k+aIFDWtebqVmfs=
-
-"@esbuild/linux-riscv64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/linux-riscv64/download/@esbuild/linux-riscv64-0.18.20.tgz#6628389f210123d8b4743045af8caa7d4ddfc7a6"
-  integrity sha1-Zig4nyEBI9i0dDBFr4yqfU3fx6Y=
-
-"@esbuild/linux-s390x@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/linux-s390x/download/@esbuild/linux-s390x-0.18.20.tgz#255e81fb289b101026131858ab99fba63dcf0071"
-  integrity sha1-JV6B+yibEBAmExhYq5n7pj3PAHE=
-
-"@esbuild/linux-x64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/linux-x64/download/@esbuild/linux-x64-0.18.20.tgz#c7690b3417af318a9b6f96df3031a8865176d338"
-  integrity sha1-x2kLNBevMYqbb5bfMDGohlF20zg=
-
-"@esbuild/netbsd-x64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/netbsd-x64/download/@esbuild/netbsd-x64-0.18.20.tgz#30e8cd8a3dded63975e2df2438ca109601ebe0d1"
-  integrity sha1-MOjNij3e1jl14t8kOMoQlgHr4NE=
-
-"@esbuild/openbsd-x64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/openbsd-x64/download/@esbuild/openbsd-x64-0.18.20.tgz#7812af31b205055874c8082ea9cf9ab0da6217ae"
-  integrity sha1-eBKvMbIFBVh0yAguqc+asNpiF64=
-
-"@esbuild/sunos-x64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/sunos-x64/download/@esbuild/sunos-x64-0.18.20.tgz#d5c275c3b4e73c9b0ecd38d1ca62c020f887ab9d"
-  integrity sha1-1cJ1w7TnPJsOzTjRymLAIPiHq50=
-
-"@esbuild/win32-arm64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/win32-arm64/download/@esbuild/win32-arm64-0.18.20.tgz#73bc7f5a9f8a77805f357fab97f290d0e4820ac9"
-  integrity sha1-c7x/Wp+Kd4BfNX+rl/KQ0OSCCsk=
-
-"@esbuild/win32-ia32@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/win32-ia32/download/@esbuild/win32-ia32-0.18.20.tgz#ec93cbf0ef1085cc12e71e0d661d20569ff42102"
-  integrity sha1-7JPL8O8QhcwS5x4NZh0gVp/0IQI=
-
-"@esbuild/win32-x64@0.18.20":
-  version "0.18.20"
-  resolved "http://npm.idcvdian.com/@esbuild/win32-x64/download/@esbuild/win32-x64-0.18.20.tgz#786c5f41f043b07afb1af37683d7c33668858f6d"
-  integrity sha1-eGxfQfBDsHr7GvN2g9fDNmiFj20=
 
 "@jridgewell/sourcemap-codec@^1.4.15":
   version "1.4.15"
-  resolved "http://npm.idcvdian.com/@jridgewell/sourcemap-codec/download/@jridgewell/sourcemap-codec-1.4.15.tgz#d7c6e6755c78567a951e04ab52ef0fd26de59f32"
+  resolved "http://npm.idcvdian.com/@jridgewell/sourcemap-codec/download/@jridgewell/sourcemap-codec-1.4.15.tgz"
   integrity sha1-18bmdVx4VnqVHgSrUu8P0m3lnzI=
 
 "@vitejs/plugin-vue@^4.2.3":
   version "4.6.2"
-  resolved "http://npm.idcvdian.com/@vitejs/plugin-vue/download/@vitejs/plugin-vue-4.6.2.tgz#057d2ded94c4e71b94e9814f92dcd9306317aa46"
+  resolved "http://npm.idcvdian.com/@vitejs/plugin-vue/download/@vitejs/plugin-vue-4.6.2.tgz"
   integrity sha1-BX0t7ZTE5xuU6YFPktzZMGMXqkY=
 
-"@volar/language-core@1.11.1", "@volar/language-core@~1.11.1":
+"@volar/language-core@~1.11.1", "@volar/language-core@1.11.1":
   version "1.11.1"
-  resolved "http://npm.idcvdian.com/@volar/language-core/download/@volar/language-core-1.11.1.tgz#ecdf12ea8dc35fb8549e517991abcbf449a5ad4f"
+  resolved "http://npm.idcvdian.com/@volar/language-core/download/@volar/language-core-1.11.1.tgz"
   integrity sha1-7N8S6o3DX7hUnlF5kavL9EmlrU8=
   dependencies:
     "@volar/source-map" "1.11.1"
 
-"@volar/source-map@1.11.1", "@volar/source-map@~1.11.1":
+"@volar/source-map@~1.11.1", "@volar/source-map@1.11.1":
   version "1.11.1"
-  resolved "http://npm.idcvdian.com/@volar/source-map/download/@volar/source-map-1.11.1.tgz#535b0328d9e2b7a91dff846cab4058e191f4452f"
+  resolved "http://npm.idcvdian.com/@volar/source-map/download/@volar/source-map-1.11.1.tgz"
   integrity sha1-U1sDKNnit6kd/4Rsq0BY4ZH0RS8=
   dependencies:
     muggle-string "^0.3.1"
 
 "@volar/typescript@~1.11.1":
   version "1.11.1"
-  resolved "http://npm.idcvdian.com/@volar/typescript/download/@volar/typescript-1.11.1.tgz#ba86c6f326d88e249c7f5cfe4b765be3946fd627"
+  resolved "http://npm.idcvdian.com/@volar/typescript/download/@volar/typescript-1.11.1.tgz"
   integrity sha1-uobG8ybYjiScf1z+S3Zb45Rv1ic=
   dependencies:
     "@volar/language-core" "1.11.1"
@@ -151,7 +46,7 @@
 
 "@vue/compiler-core@3.4.27":
   version "3.4.27"
-  resolved "http://npm.idcvdian.com/@vue/compiler-core/download/@vue/compiler-core-3.4.27.tgz#e69060f4b61429fe57976aa5872cfa21389e4d91"
+  resolved "http://npm.idcvdian.com/@vue/compiler-core/download/@vue/compiler-core-3.4.27.tgz"
   integrity sha1-5pBg9LYUKf5Xl2qlhyz6ITieTZE=
   dependencies:
     "@babel/parser" "^7.24.4"
@@ -160,9 +55,9 @@
     estree-walker "^2.0.2"
     source-map-js "^1.2.0"
 
-"@vue/compiler-dom@3.4.27", "@vue/compiler-dom@^3.3.0":
+"@vue/compiler-dom@^3.3.0", "@vue/compiler-dom@3.4.27":
   version "3.4.27"
-  resolved "http://npm.idcvdian.com/@vue/compiler-dom/download/@vue/compiler-dom-3.4.27.tgz#d51d35f40d00ce235d7afc6ad8b09dfd92b1cc1c"
+  resolved "http://npm.idcvdian.com/@vue/compiler-dom/download/@vue/compiler-dom-3.4.27.tgz"
   integrity sha1-1R019A0AziNdevxq2LCd/ZKxzBw=
   dependencies:
     "@vue/compiler-core" "3.4.27"
@@ -170,7 +65,7 @@
 
 "@vue/compiler-sfc@3.4.27":
   version "3.4.27"
-  resolved "http://npm.idcvdian.com/@vue/compiler-sfc/download/@vue/compiler-sfc-3.4.27.tgz#399cac1b75c6737bf5440dc9cf3c385bb2959701"
+  resolved "http://npm.idcvdian.com/@vue/compiler-sfc/download/@vue/compiler-sfc-3.4.27.tgz"
   integrity sha1-OZysG3XGc3v1RA3Jzzw4W7KVlwE=
   dependencies:
     "@babel/parser" "^7.24.4"
@@ -185,7 +80,7 @@
 
 "@vue/compiler-ssr@3.4.27":
   version "3.4.27"
-  resolved "http://npm.idcvdian.com/@vue/compiler-ssr/download/@vue/compiler-ssr-3.4.27.tgz#2a8ecfef1cf448b09be633901a9c020360472e3d"
+  resolved "http://npm.idcvdian.com/@vue/compiler-ssr/download/@vue/compiler-ssr-3.4.27.tgz"
   integrity sha1-Ko7P7xz0SLCb5jOQGpwCA2BHLj0=
   dependencies:
     "@vue/compiler-dom" "3.4.27"
@@ -193,7 +88,7 @@
 
 "@vue/language-core@1.8.27":
   version "1.8.27"
-  resolved "http://npm.idcvdian.com/@vue/language-core/download/@vue/language-core-1.8.27.tgz#2ca6892cb524e024a44e554e4c55d7a23e72263f"
+  resolved "http://npm.idcvdian.com/@vue/language-core/download/@vue/language-core-1.8.27.tgz"
   integrity sha1-LKaJLLUk4CSkTlVOTFXXoj5yJj8=
   dependencies:
     "@volar/language-core" "~1.11.1"
@@ -208,14 +103,14 @@
 
 "@vue/reactivity@3.4.27":
   version "3.4.27"
-  resolved "http://npm.idcvdian.com/@vue/reactivity/download/@vue/reactivity-3.4.27.tgz#6ece72331bf719953f5eaa95ec60b2b8d49e3791"
+  resolved "http://npm.idcvdian.com/@vue/reactivity/download/@vue/reactivity-3.4.27.tgz"
   integrity sha1-bs5yMxv3GZU/XqqV7GCyuNSeN5E=
   dependencies:
     "@vue/shared" "3.4.27"
 
 "@vue/runtime-core@3.4.27":
   version "3.4.27"
-  resolved "http://npm.idcvdian.com/@vue/runtime-core/download/@vue/runtime-core-3.4.27.tgz#1b6e1d71e4604ba7442dd25ed22e4a1fc6adbbda"
+  resolved "http://npm.idcvdian.com/@vue/runtime-core/download/@vue/runtime-core-3.4.27.tgz"
   integrity sha1-G24dceRgS6dELdJe0i5KH8atu9o=
   dependencies:
     "@vue/reactivity" "3.4.27"
@@ -223,7 +118,7 @@
 
 "@vue/runtime-dom@3.4.27":
   version "3.4.27"
-  resolved "http://npm.idcvdian.com/@vue/runtime-dom/download/@vue/runtime-dom-3.4.27.tgz#fe8d1ce9bbe8921d5dd0ad5c10df0e04ef7a5ee7"
+  resolved "http://npm.idcvdian.com/@vue/runtime-dom/download/@vue/runtime-dom-3.4.27.tgz"
   integrity sha1-/o0c6bvokh1d0K1cEN8OBO96Xuc=
   dependencies:
     "@vue/runtime-core" "3.4.27"
@@ -232,66 +127,66 @@
 
 "@vue/server-renderer@3.4.27":
   version "3.4.27"
-  resolved "http://npm.idcvdian.com/@vue/server-renderer/download/@vue/server-renderer-3.4.27.tgz#3306176f37e648ba665f97dda3ce705687be63d2"
+  resolved "http://npm.idcvdian.com/@vue/server-renderer/download/@vue/server-renderer-3.4.27.tgz"
   integrity sha1-MwYXbzfmSLpmX5fdo85wVoe+Y9I=
   dependencies:
     "@vue/compiler-ssr" "3.4.27"
     "@vue/shared" "3.4.27"
 
-"@vue/shared@3.4.27", "@vue/shared@^3.3.0":
+"@vue/shared@^3.3.0", "@vue/shared@3.4.27":
   version "3.4.27"
-  resolved "http://npm.idcvdian.com/@vue/shared/download/@vue/shared-3.4.27.tgz#f05e3cd107d157354bb4ae7a7b5fc9cf73c63b50"
+  resolved "http://npm.idcvdian.com/@vue/shared/download/@vue/shared-3.4.27.tgz"
   integrity sha1-8F480QfRVzVLtK56e1/Jz3PGO1A=
 
 balanced-match@^1.0.0:
   version "1.0.2"
-  resolved "http://npm.idcvdian.com/balanced-match/download/balanced-match-1.0.2.tgz#e83e3a7e3f300b34cb9d87f615fa0cbf357690ee"
+  resolved "http://npm.idcvdian.com/balanced-match/download/balanced-match-1.0.2.tgz"
   integrity sha1-6D46fj8wCzTLnYf2FfoMvzV2kO4=
 
 brace-expansion@^2.0.1:
   version "2.0.1"
-  resolved "http://npm.idcvdian.com/brace-expansion/download/brace-expansion-2.0.1.tgz#1edc459e0f0c548486ecf9fc99f2221364b9a0ae"
+  resolved "http://npm.idcvdian.com/brace-expansion/download/brace-expansion-2.0.1.tgz"
   integrity sha1-HtxFng8MVISG7Pn8mfIiE2S5oK4=
   dependencies:
     balanced-match "^1.0.0"
 
 computeds@^0.0.1:
   version "0.0.1"
-  resolved "http://npm.idcvdian.com/computeds/download/computeds-0.0.1.tgz#215b08a4ba3e08a11ff6eee5d6d8d7166a97ce2e"
+  resolved "http://npm.idcvdian.com/computeds/download/computeds-0.0.1.tgz"
   integrity sha1-IVsIpLo+CKEf9u7l1tjXFmqXzi4=
 
 copy-anything@^2.0.1:
   version "2.0.6"
-  resolved "http://npm.idcvdian.com/copy-anything/download/copy-anything-2.0.6.tgz#092454ea9584a7b7ad5573062b2a87f5900fc480"
+  resolved "http://npm.idcvdian.com/copy-anything/download/copy-anything-2.0.6.tgz"
   integrity sha1-CSRU6pWEp7etVXMGKyqH9ZAPxIA=
   dependencies:
     is-what "^3.14.1"
 
 csstype@^3.1.3:
   version "3.1.3"
-  resolved "http://npm.idcvdian.com/csstype/download/csstype-3.1.3.tgz#d80ff294d114fb0e6ac500fbf85b60137d7eff81"
+  resolved "http://npm.idcvdian.com/csstype/download/csstype-3.1.3.tgz"
   integrity sha1-2A/ylNEU+w5qxQD7+FtgE31+/4E=
 
 de-indent@^1.0.2:
   version "1.0.2"
-  resolved "http://npm.idcvdian.com/de-indent/download/de-indent-1.0.2.tgz#b2038e846dc33baa5796128d0804b455b8c1e21d"
+  resolved "http://npm.idcvdian.com/de-indent/download/de-indent-1.0.2.tgz"
   integrity sha1-sgOOhG3DO6pXlhKNCAS0VbjB4h0=
 
 entities@^4.5.0:
   version "4.5.0"
-  resolved "http://npm.idcvdian.com/entities/download/entities-4.5.0.tgz#5d268ea5e7113ec74c4d033b79ea5a35a488fb48"
+  resolved "http://npm.idcvdian.com/entities/download/entities-4.5.0.tgz"
   integrity sha1-XSaOpecRPsdMTQM7eepaNaSI+0g=
 
 errno@^0.1.1:
   version "0.1.8"
-  resolved "http://npm.idcvdian.com/errno/download/errno-0.1.8.tgz#8bb3e9c7d463be4976ff888f76b4809ebc2e811f"
+  resolved "http://npm.idcvdian.com/errno/download/errno-0.1.8.tgz"
   integrity sha1-i7Ppx9Rjvkl2/4iPdrSAnrwugR8=
   dependencies:
     prr "~1.0.1"
 
 esbuild@^0.18.10:
   version "0.18.20"
-  resolved "http://npm.idcvdian.com/esbuild/download/esbuild-0.18.20.tgz#4709f5a34801b43b799ab7d6d82f7284a9b7a7a6"
+  resolved "http://npm.idcvdian.com/esbuild/download/esbuild-0.18.20.tgz"
   integrity sha1-Rwn1o0gBtDt5mrfW2C9yhKm3p6Y=
   optionalDependencies:
     "@esbuild/android-arm" "0.18.20"
@@ -319,44 +214,44 @@ esbuild@^0.18.10:
 
 estree-walker@^2.0.2:
   version "2.0.2"
-  resolved "http://npm.idcvdian.com/estree-walker/download/estree-walker-2.0.2.tgz#52f010178c2a4c117a7757cfe942adb7d2da4cac"
+  resolved "http://npm.idcvdian.com/estree-walker/download/estree-walker-2.0.2.tgz"
   integrity sha1-UvAQF4wqTBF6d1fP6UKtt9LaTKw=
 
 fsevents@~2.3.2:
   version "2.3.3"
-  resolved "http://npm.idcvdian.com/fsevents/download/fsevents-2.3.3.tgz#cac6407785d03675a2a5e1a5305c697b347d90d6"
+  resolved "http://npm.idcvdian.com/fsevents/download/fsevents-2.3.3.tgz"
   integrity sha1-ysZAd4XQNnWipeGlMFxpezR9kNY=
 
 graceful-fs@^4.1.2:
   version "4.2.11"
-  resolved "http://npm.idcvdian.com/graceful-fs/download/graceful-fs-4.2.11.tgz#4183e4e8bf08bb6e05bbb2f7d2e0c8f712ca40e3"
+  resolved "http://npm.idcvdian.com/graceful-fs/download/graceful-fs-4.2.11.tgz"
   integrity sha1-QYPk6L8Iu24Fu7L30uDI9xLKQOM=
 
 he@^1.2.0:
   version "1.2.0"
-  resolved "http://npm.idcvdian.com/he/download/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
+  resolved "http://npm.idcvdian.com/he/download/he-1.2.0.tgz"
   integrity sha1-hK5l+n6vsWX922FWauFLrwVmTw8=
 
 iconv-lite@^0.6.3:
   version "0.6.3"
-  resolved "http://npm.idcvdian.com/iconv-lite/download/iconv-lite-0.6.3.tgz#a52f80bf38da1952eb5c681790719871a1a72501"
+  resolved "http://npm.idcvdian.com/iconv-lite/download/iconv-lite-0.6.3.tgz"
   integrity sha1-pS+AvzjaGVLrXGgXkHGYcaGnJQE=
   dependencies:
     safer-buffer ">= 2.1.2 < 3.0.0"
 
 image-size@~0.5.0:
   version "0.5.5"
-  resolved "http://npm.idcvdian.com/image-size/download/image-size-0.5.5.tgz#09dfd4ab9d20e29eb1c3e80b8990378df9e3cb9c"
+  resolved "http://npm.idcvdian.com/image-size/download/image-size-0.5.5.tgz"
   integrity sha1-Cd/Uq50g4p6xw+gLiZA3jfnjy5w=
 
 is-what@^3.14.1:
   version "3.14.1"
-  resolved "http://npm.idcvdian.com/is-what/download/is-what-3.14.1.tgz#e1222f46ddda85dead0fd1c9df131760e77755c1"
+  resolved "http://npm.idcvdian.com/is-what/download/is-what-3.14.1.tgz"
   integrity sha1-4SIvRt3ahd6tD9HJ3xMXYOd3VcE=
 
-less@^4.2.0:
+less@*, less@^4.2.0:
   version "4.2.0"
-  resolved "http://npm.idcvdian.com/less/download/less-4.2.0.tgz#cbefbfaa14a4cd388e2099b2b51f956e1465c450"
+  resolved "http://npm.idcvdian.com/less/download/less-4.2.0.tgz"
   integrity sha1-y++/qhSkzTiOIJmytR+VbhRlxFA=
   dependencies:
     copy-anything "^2.0.1"
@@ -373,19 +268,19 @@ less@^4.2.0:
 
 lightgallery@^2.7.2:
   version "2.7.2"
-  resolved "http://npm.idcvdian.com/lightgallery/download/lightgallery-2.7.2.tgz#9309216986fbce60602b851e1ef80cf40769c3d3"
+  resolved "http://npm.idcvdian.com/lightgallery/download/lightgallery-2.7.2.tgz"
   integrity sha1-kwkhaYb7zmBgK4UeHvgM9Adpw9M=
 
 magic-string@^0.30.10:
   version "0.30.10"
-  resolved "http://npm.idcvdian.com/magic-string/download/magic-string-0.30.10.tgz#123d9c41a0cb5640c892b041d4cfb3bd0aa4b39e"
+  resolved "http://npm.idcvdian.com/magic-string/download/magic-string-0.30.10.tgz"
   integrity sha1-Ej2cQaDLVkDIkrBB1M+zvQqks54=
   dependencies:
     "@jridgewell/sourcemap-codec" "^1.4.15"
 
 make-dir@^2.1.0:
   version "2.1.0"
-  resolved "http://npm.idcvdian.com/make-dir/download/make-dir-2.1.0.tgz#5f0310e18b8be898cc07009295a30ae41e91e6f5"
+  resolved "http://npm.idcvdian.com/make-dir/download/make-dir-2.1.0.tgz"
   integrity sha1-XwMQ4YuL6JjMBwCSlaMK5B6R5vU=
   dependencies:
     pify "^4.0.1"
@@ -393,29 +288,29 @@ make-dir@^2.1.0:
 
 mime@^1.4.1:
   version "1.6.0"
-  resolved "http://npm.idcvdian.com/mime/download/mime-1.6.0.tgz#32cd9e5c64553bd58d19a568af452acff04981b1"
+  resolved "http://npm.idcvdian.com/mime/download/mime-1.6.0.tgz"
   integrity sha1-Ms2eXGRVO9WNGaVor0Uqz/BJgbE=
 
 minimatch@^9.0.3:
-  version "9.0.4"
-  resolved "http://npm.idcvdian.com/minimatch/download/minimatch-9.0.4.tgz#8e49c731d1749cbec05050ee5145147b32496a51"
-  integrity sha1-jknHMdF0nL7AUFDuUUUUezJJalE=
+  version "9.0.5"
+  resolved "http://npm.idcvdian.com/minimatch/download/minimatch-9.0.5.tgz"
+  integrity sha1-10+d1rV9g9jpjPuCEzsDl4vJKeU=
   dependencies:
     brace-expansion "^2.0.1"
 
 muggle-string@^0.3.1:
   version "0.3.1"
-  resolved "http://npm.idcvdian.com/muggle-string/download/muggle-string-0.3.1.tgz#e524312eb1728c63dd0b2ac49e3282e6ed85963a"
+  resolved "http://npm.idcvdian.com/muggle-string/download/muggle-string-0.3.1.tgz"
   integrity sha1-5SQxLrFyjGPdCyrEnjKC5u2Fljo=
 
 nanoid@^3.3.7:
   version "3.3.7"
-  resolved "http://npm.idcvdian.com/nanoid/download/nanoid-3.3.7.tgz#d0c301a691bc8d54efa0a2226ccf3fe2fd656bd8"
+  resolved "http://npm.idcvdian.com/nanoid/download/nanoid-3.3.7.tgz"
   integrity sha1-0MMBppG8jVTvoKIibM8/4v1la9g=
 
 needle@^3.1.0:
   version "3.3.1"
-  resolved "http://npm.idcvdian.com/needle/download/needle-3.3.1.tgz#63f75aec580c2e77e209f3f324e2cdf3d29bd049"
+  resolved "http://npm.idcvdian.com/needle/download/needle-3.3.1.tgz"
   integrity sha1-Y/da7FgMLnfiCfPzJOLN89Kb0Ek=
   dependencies:
     iconv-lite "^0.6.3"
@@ -423,27 +318,27 @@ needle@^3.1.0:
 
 parse-node-version@^1.0.1:
   version "1.0.1"
-  resolved "http://npm.idcvdian.com/parse-node-version/download/parse-node-version-1.0.1.tgz#e2b5dbede00e7fa9bc363607f53327e8b073189b"
+  resolved "http://npm.idcvdian.com/parse-node-version/download/parse-node-version-1.0.1.tgz"
   integrity sha1-4rXb7eAOf6m8NjYH9TMn6LBzGJs=
 
 path-browserify@^1.0.1:
   version "1.0.1"
-  resolved "http://npm.idcvdian.com/path-browserify/download/path-browserify-1.0.1.tgz#d98454a9c3753d5790860f16f68867b9e46be1fd"
+  resolved "http://npm.idcvdian.com/path-browserify/download/path-browserify-1.0.1.tgz"
   integrity sha1-2YRUqcN1PVeQhg8W9ohnueRr4f0=
 
 picocolors@^1.0.0:
   version "1.0.1"
-  resolved "http://npm.idcvdian.com/picocolors/download/picocolors-1.0.1.tgz#a8ad579b571952f0e5d25892de5445bcfe25aaa1"
+  resolved "http://npm.idcvdian.com/picocolors/download/picocolors-1.0.1.tgz"
   integrity sha1-qK1Xm1cZUvDl0liS3lRFvP4lqqE=
 
 pify@^4.0.1:
   version "4.0.1"
-  resolved "http://npm.idcvdian.com/pify/download/pify-4.0.1.tgz#4b2cd25c50d598735c50292224fd8c6df41e3231"
+  resolved "http://npm.idcvdian.com/pify/download/pify-4.0.1.tgz"
   integrity sha1-SyzSXFDVmHNcUCkiJP2MbfQeMjE=
 
 postcss@^8.4.27, postcss@^8.4.38:
   version "8.4.38"
-  resolved "http://npm.idcvdian.com/postcss/download/postcss-8.4.38.tgz#b387d533baf2054288e337066d81c6bee9db9e0e"
+  resolved "http://npm.idcvdian.com/postcss/download/postcss-8.4.38.tgz"
   integrity sha1-s4fVM7ryBUKI4zcGbYHGvunbng4=
   dependencies:
     nanoid "^3.3.7"
@@ -452,59 +347,59 @@ postcss@^8.4.27, postcss@^8.4.38:
 
 prr@~1.0.1:
   version "1.0.1"
-  resolved "http://npm.idcvdian.com/prr/download/prr-1.0.1.tgz#d3fc114ba06995a45ec6893f484ceb1d78f5f476"
+  resolved "http://npm.idcvdian.com/prr/download/prr-1.0.1.tgz"
   integrity sha1-0/wRS6BplaRexok/SEzrHXj19HY=
 
 rollup@^3.27.1:
   version "3.29.4"
-  resolved "http://npm.idcvdian.com/rollup/download/rollup-3.29.4.tgz#4d70c0f9834146df8705bfb69a9a19c9e1109981"
+  resolved "http://npm.idcvdian.com/rollup/download/rollup-3.29.4.tgz"
   integrity sha1-TXDA+YNBRt+HBb+2mpoZyeEQmYE=
   optionalDependencies:
     fsevents "~2.3.2"
 
 "safer-buffer@>= 2.1.2 < 3.0.0":
   version "2.1.2"
-  resolved "http://npm.idcvdian.com/safer-buffer/download/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
+  resolved "http://npm.idcvdian.com/safer-buffer/download/safer-buffer-2.1.2.tgz"
   integrity sha1-RPoWGwGHuVSd2Eu5GAL5vYOFzWo=
 
 sax@^1.2.4:
   version "1.4.1"
-  resolved "http://npm.idcvdian.com/sax/download/sax-1.4.1.tgz#44cc8988377f126304d3b3fc1010c733b929ef0f"
+  resolved "http://npm.idcvdian.com/sax/download/sax-1.4.1.tgz"
   integrity sha1-RMyJiDd/EmME07P8EBDHM7kp7w8=
 
 semver@^5.6.0:
   version "5.7.2"
-  resolved "http://npm.idcvdian.com/semver/download/semver-5.7.2.tgz#48d55db737c3287cd4835e17fa13feace1c41ef8"
+  resolved "http://npm.idcvdian.com/semver/download/semver-5.7.2.tgz"
   integrity sha1-SNVdtzfDKHzUg14X+hP+rOHEHvg=
 
 semver@^7.5.4:
   version "7.6.2"
-  resolved "http://npm.idcvdian.com/semver/download/semver-7.6.2.tgz#1e3b34759f896e8f14d6134732ce798aeb0c6e13"
+  resolved "http://npm.idcvdian.com/semver/download/semver-7.6.2.tgz"
   integrity sha1-Hjs0dZ+Jbo8U1hNHMs55iusMbhM=
 
 source-map-js@^1.2.0:
   version "1.2.0"
-  resolved "http://npm.idcvdian.com/source-map-js/download/source-map-js-1.2.0.tgz#16b809c162517b5b8c3e7dcd315a2a5c2612b2af"
+  resolved "http://npm.idcvdian.com/source-map-js/download/source-map-js-1.2.0.tgz"
   integrity sha1-FrgJwWJRe1uMPn3NMVoqXCYSsq8=
 
 source-map@~0.6.0:
   version "0.6.1"
-  resolved "http://npm.idcvdian.com/source-map/download/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
+  resolved "http://npm.idcvdian.com/source-map/download/source-map-0.6.1.tgz"
   integrity sha1-dHIq8y6WFOnCh6jQu95IteLxomM=
 
 tslib@^2.3.0:
   version "2.6.3"
-  resolved "http://npm.idcvdian.com/tslib/download/tslib-2.6.3.tgz#0438f810ad7a9edcde7a241c3d80db693c8cbfe0"
+  resolved "http://npm.idcvdian.com/tslib/download/tslib-2.6.3.tgz"
   integrity sha1-BDj4EK16ntzeeiQcPYDbaTyMv+A=
 
-typescript@^5.0.2:
+typescript@*, typescript@^5.0.2:
   version "5.4.5"
-  resolved "http://npm.idcvdian.com/typescript/download/typescript-5.4.5.tgz#42ccef2c571fdbd0f6718b1d1f5e6e5ef006f611"
+  resolved "http://npm.idcvdian.com/typescript/download/typescript-5.4.5.tgz"
   integrity sha1-QszvLFcf29D2cYsdH15uXvAG9hE=
 
-vite@^4.4.0:
+"vite@^4.0.0 || ^5.0.0", vite@^4.4.0:
   version "4.5.3"
-  resolved "http://npm.idcvdian.com/vite/download/vite-4.5.3.tgz#d88a4529ea58bae97294c7e2e6f0eab39a50fb1a"
+  resolved "http://npm.idcvdian.com/vite/download/vite-4.5.3.tgz"
   integrity sha1-2IpFKepYuulylMfi5vDqs5pQ+xo=
   dependencies:
     esbuild "^0.18.10"
@@ -515,7 +410,7 @@ vite@^4.4.0:
 
 vue-template-compiler@^2.7.14:
   version "2.7.16"
-  resolved "http://npm.idcvdian.com/vue-template-compiler/download/vue-template-compiler-2.7.16.tgz#c81b2d47753264c77ac03b9966a46637482bb03b"
+  resolved "http://npm.idcvdian.com/vue-template-compiler/download/vue-template-compiler-2.7.16.tgz"
   integrity sha1-yBstR3UyZMd6wDuZZqRmN0grsDs=
   dependencies:
     de-indent "^1.0.2"
@@ -523,16 +418,16 @@ vue-template-compiler@^2.7.14:
 
 vue-tsc@^1.8.3:
   version "1.8.27"
-  resolved "http://npm.idcvdian.com/vue-tsc/download/vue-tsc-1.8.27.tgz#feb2bb1eef9be28017bb9e95e2bbd1ebdd48481c"
+  resolved "http://npm.idcvdian.com/vue-tsc/download/vue-tsc-1.8.27.tgz"
   integrity sha1-/rK7Hu+b4oAXu56V4rvR691ISBw=
   dependencies:
     "@volar/typescript" "~1.11.1"
     "@vue/language-core" "1.8.27"
     semver "^7.5.4"
 
-vue@^3.3.4:
+vue@^3.2.25, vue@^3.3.4, vue@3.4.27:
   version "3.4.27"
-  resolved "http://npm.idcvdian.com/vue/download/vue-3.4.27.tgz#40b7d929d3e53f427f7f5945386234d2854cc2a1"
+  resolved "http://npm.idcvdian.com/vue/download/vue-3.4.27.tgz"
   integrity sha1-QLfZKdPlP0J/f1lFOGI00oVMwqE=
   dependencies:
     "@vue/compiler-dom" "3.4.27"
