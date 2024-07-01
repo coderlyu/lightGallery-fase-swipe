@@ -63,13 +63,12 @@
 import Lightgallery from "lightgallery";
 import { onMounted } from "vue";
 import lgZoom from "lightgallery/lib/plugins/zoom/lg-zoom";
-import lgVideo from "lightgallery/plugins/video";
 const start = () => {
   //
   const el = document.getElementById("preview");
   if (!el) return;
   const instance = new Lightgallery(el, {
-    plugins: [lgZoom, lgVideo],
+    plugins: [lgZoom],
     swipeThreshold: 0,
     speed: 0,
     thumbnail: false,
